@@ -1,7 +1,7 @@
 //variáveis da bolinha
 let xBolinha = 300;
 let yBolinha = 220;
-let diametro = 15;
+let diametro = 100;
 let raio = diametro / 2;
 
 //velocidade da bolinha
